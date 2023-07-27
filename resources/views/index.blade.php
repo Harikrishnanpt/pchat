@@ -30,9 +30,6 @@
 </script>
 
 <!-- ... -->
-
-
-    <title>Pchat</title>
   </head>
   <body>
 <div class="chat">
