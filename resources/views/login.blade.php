@@ -33,7 +33,7 @@
                 </div>
                 <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit">Sign in</button>
 
-                <div id="my-signin2">
+                <div id="my-signin2" style="margin-left: 10px">
 
                 </div>  
             </form><!-- /form -->
